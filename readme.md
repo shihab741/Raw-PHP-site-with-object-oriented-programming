@@ -6,5 +6,5 @@
 ## How to install
 - Go to app/classes/database.php file and provide database information,
 - Go to index.php file at root, change URL as per your project location (Line no. 12),
-- To login go to <home url>/admin,
+- To login, go to <home url>/admin,
 - User: example@example.com, password: 12345678
